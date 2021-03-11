@@ -15,6 +15,15 @@ npm run serve
 npm run build
 ```
 
+### to run production mode
+```
+npm install -g serve
+```
+
+```
+serve -s dist
+```
+
 ### Lints and fixes files
 ```
 npm run lint
